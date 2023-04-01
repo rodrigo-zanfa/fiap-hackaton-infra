@@ -1,4 +1,4 @@
-# Infra-end Hackaton Fiap 9aojo
+# Infraestrutura Hackaton Fiap 9aojo
 
 Esse é um texto sobre o desafio proposto em um Hackathon. A ideia é trabalhar em cima de uma startup chamada "VideoTraining", 
 que oferece uma plataforma de streaming de vídeos particulares para empresas realizarem treinamentos com seus funcionários.
